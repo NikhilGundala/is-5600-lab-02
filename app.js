@@ -35,6 +35,8 @@ document.addEventListener('DOMContentLoaded', () => {
       }
     });
   });
+
+  
 // Create the user list in the sidebar
 function generateUserList(users, stocks) {
     const userList = document.querySelector('.user-list');
